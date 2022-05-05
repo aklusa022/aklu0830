@@ -8,19 +8,27 @@
 <a href="https://www.linkedin.com/in/alexander-klusa-2050b3225/"><img height="30" src="https://raw.githubusercontent.com/aklu0830/aklu0830/master/icons/logo-linkedin_white.png"></a>&nbsp;&nbsp;
 </p>
 
-### 🔧 Tools
+### 🔧🖥️ Operating Systems
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/IDE-Intellij_Idea-informational?style=flat&logo=intellijidea&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Platform-Raspberry_Pi-informational?style=flat&logo=RaspberryPi&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Text_Editor-Sublime_Text_3-informational?style=flat&logo=SublimeText&logoColor=white&color=blue)
+### 🔧 Tools
+![](https://img.shields.io/badge/IDE-Intellij_Idea-informational?style=flat&logo=intellijidea&logoColor=white&color=purple) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/Testing-Postman-informational?style=flat&logo=postman&logoColor=white&color=orange) ![](https://img.shields.io/badge/Hardware-Raspberry_Pi-informational?style=flat&logo=RaspberryPi&logoColor=white&color=red)
+![](https://img.shields.io/badge/Text_Editor-Sublime_Text_3-informational?style=flat&logo=SublimeText&logoColor=white&color=orange)
 
+### ⌨️ Coding Languages
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=yello&color=blue)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=brown&color=brown)
+![](https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=csharp&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=yellow&color=green)
 
+### 🔨 Frameworks 
+
+![](https://img.shields.io/badge/Framework-.NET_Framework_3.1-informational?style=flat&logo=dotnet&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/Framework-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=darkblue)
 
 
 
