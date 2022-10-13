@@ -1,11 +1,11 @@
-# Hi, I'm Alex! <img src="https://raw.githubusercontent.com/aklu0830/wave.gif" width="30px">
+# Hi, I'm Alex! <img src="https://raw.githubusercontent.com/aklusa022/wave.gif" width="30px">
 
 
 <p align='left'>
-<a href="https://www.buymeacoffee.com/aklusa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Danilo A Coffee!" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/aklusa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Alex A Coffee!" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 <p align='left'>
-<a href="https://www.linkedin.com/in/alexander-klusa-2050b3225/"><img height="30" src="https://raw.githubusercontent.com/aklu0830/aklu0830/master/icons/logo-linkedin_white.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alexander-klusa-2050b3225/"><img height="30" src="https://raw.githubusercontent.com/aklusa022/aklusa022/master/icons/logo-linkedin_white.png"></a>&nbsp;&nbsp;
 </p>
 
 ### 🔧🖥️ Operating Systems
@@ -35,7 +35,7 @@
 ###  🔥 Projects
 I’m currently working on these projects:
 
-**[Hyperlink Licensing System](https://github.com/aklu0830/LicenseSystemWebApp)**
+**[Hyperlink Licensing System](https://github.com/aklusa022/LicenseSystemWebApp)**
 
 **CMS System for TheHiddenRoom.com**
 
@@ -44,7 +44,7 @@ I’m currently working on these projects:
 
 ### 📈 Stats
 
-[![aklusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklu0830&theme=github_dark&show_icons=true&count_private=true&hide=prs,issues&line_height=30)](https://github.com/aklu0830/aklu0830)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklu0830&hide=html,batchfile,processing&theme=github_dark&langs_count=5)](https://github.com/aklu0830/aklu0830)
+[![aklusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklusa022&theme=github_dark&show_icons=true&count_private=true&hide=prs,issues&line_height=30)](https://github.com/aklusa022/aklusa022)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklu0830&hide=html,batchfile,processing&theme=github_dark&langs_count=5)](https://github.com/aklusa022/aklusa022)
 
 
