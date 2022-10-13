@@ -45,6 +45,6 @@ I’m currently working on these projects:
 ### 📈 Stats
 
 [![aklusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklusa022&theme=github_dark&show_icons=true&count_private=true&hide=prs,issues&line_height=30)](https://github.com/aklusa022/aklusa022)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklu0830&hide=html,batchfile,processing&theme=github_dark&langs_count=5)](https://github.com/aklusa022/aklusa022)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklusa022&hide=html,batchfile,processing&theme=github_dark&langs_count=5)](https://github.com/aklusa022/aklusa022)
 
 
