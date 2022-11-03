@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
 
 ### 🔧 Tools
-![](https://img.shields.io/badge/IDE-Intellij_Idea-informational?style=flat&logo=intellijidea&logoColor=white&color=purple) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=rider&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/Testing-Postman-informational?style=flat&logo=postman&logoColor=white&color=orange) ![](https://img.shields.io/badge/Hardware-Raspberry_Pi-informational?style=flat&logo=RaspberryPi&logoColor=white&color=red)
+![](https://img.shields.io/badge/IDE-Intellij_Idea-informational?style=flat&logo=intellijidea&logoColor=white&color=purple) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=rider&logoColor=white&color=darkblue) ![](https://img.shields.io/badge/Testing-Postman-informational?style=flat&logo=postman&logoColor=white&color=orange) ![](https://img.shields.io/badge/Hardware-Raspberry_Pi-informational?style=flat&logo=RaspberryPi&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Text_Editor-Sublime_Text_3-informational?style=flat&logo=SublimeText&logoColor=white&color=orange)
 
 ### ⌨️ Coding Languages
